@@ -16,4 +16,4 @@ with open('stations_urls.csv', newline='') as file_obj:
         c += 1  # increment counter
 
 station_num = int(input('\x1b[1;36mEnter station number\x1b[0m: '))
-# run(["mplayer", urls[station_num]])  # start mplayer
+run(["mplayer", urls[station_num]])  # start mplayer
