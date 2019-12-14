@@ -1,6 +1,16 @@
 # radio_presets_mp
 Python 3: Radio Presets MP (Wrapper): mplayer wrapper, csv.reader(), subprocess.run(), fileObject
 
+## CLI
+
+`mplayer` is a dependency which needs to found on PATH. It is the media player installed in the OS; the secret sauce of the radio streams.
+
+```bash
+$ python3 radio_presets_mp.py
+```
+
+Press `q` to quit stream.
+
 ## CSV Reader
 
 ```python
