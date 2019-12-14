@@ -1,5 +1,5 @@
 # radio_presets_mp
-Python 3: Radio Presets MP (Wrapper): mplayer, csv.reader(), subprocess.run(), fileObject
+Python 3: Radio Presets MP (Wrapper): mplayer wrapper, csv.reader(), subprocess.run(), fileObject
 
 ## CSV Reader
 
